@@ -5,7 +5,7 @@ var player;
 var cursors;
 var game;
 var rng;
-var debug = false;
+var debug = true;
 
 
 // Main game

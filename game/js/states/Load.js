@@ -22,16 +22,12 @@ Load.prototype =
 			[
 				'tilesheet',
 				'cTiles',
-				'player',
-				'enemy',
 				'dustParticle',
 				'resourceParticle'
 			], 
 			[
 				'assets/tilesheet/TileSheet_v3.png', 
 				'assets/tilesheet/BasicColorTiles_40x40px.png',
-				'assets/img/player.png',
-				'assets/img/Enemy_Placeholder.png',
 				//change the color of the particle to change the effect [white, black, red, or brown]
 				'assets/img/dustParticle_white.png',
 				'assets/img/resourceParticle.png'
